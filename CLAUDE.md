@@ -28,3 +28,7 @@ Each experiment subdirectory may have its own `CLAUDE.md` with context specific 
 - Keep experiments isolated in their own subdirectories
 - Document the goal and approach in each experiment's README or CLAUDE.md
 - Prefer small, focused experiments over large monolithic ones
+
+## Git Workflow
+
+The user manages all git operations (`git add`, `git commit`, etc.) themselves. Do not run git staging or commit commands unless explicitly asked.
